@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "43b0",
+      "email": "jane@gmail.com",
+      "password": "0987654321"
+    },
+    {
+      "id": "0952",
+      "email": "kina@gmail.com",
+      "password": "jineni2003"
+    }
+  ],
+  "student": {
+    "name": "Jane Doe",
+    "email": "janedoe@example.com",
+    "studentId": "S12345"
+  },
+  "courses": [
+    {
+      "id": 1,
+      "name": "Computer Science"
+    },
+    {
+      "id": 2,
+      "name": "Web Development"
+    }
+  ]
+}
