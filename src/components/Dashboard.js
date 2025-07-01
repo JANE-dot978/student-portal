@@ -15,9 +15,9 @@ const Dashboard = () => {
   const actions = [
     { label: "Login", icon: <FaSignInAlt />, path: "/login", btn: "btn-primary" },
     { label: "Register", icon: <FaUserPlus />, path: "/register", btn: "btn-secondary" },
-    { label: "Get All Students", icon: <FaUsers />, path: "/getall", btn: "btn-success" },
-    { label: "Add Student", icon: <FaUserEdit />, path: "/add", btn: "btn-info" },
-    { label: "Delete Student", icon: <FaTrash />, path: "/delete", btn: "btn-danger" },
+    { label: "Get All Students", icon: <FaUsers />, path: "/AllStudents", btn: "btn-success" },
+    { label: "Add Student", icon: <FaUserEdit />, path: "/addstudent", btn: "btn-info" },
+    { label: "Delete Student", icon: <FaTrash />, path: "/deletestudent", btn: "btn-danger" },
   ];
 
   return (
